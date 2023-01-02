@@ -1,0 +1,3 @@
+[submodule "testproject"]
+	path = testproject
+	url = git@github.com:Mooeez/testproject.git
